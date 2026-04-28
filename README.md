@@ -39,4 +39,4 @@ EDL with evidential outputs (μ, ν, α, β).
 RF/XGBoost as deterministic baselines.
 
 Evaluation Metrics:
-R², RMSE, MAE, AARD, Max ARD.
+R², RMSE, MAE, AARD, Max ARD. 
